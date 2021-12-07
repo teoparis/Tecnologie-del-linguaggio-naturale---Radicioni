@@ -1,50 +1,100 @@
-recessione	PIL	1.0
-Cesare	Giulio Cesare	1.0
-paziente	sessione	1.0
+recessione	PIL	2.0
+
+Cesare	Giulio Cesare	3.5
+
+paziente	sessione	3.5
+
 comportamentismo	terapia	1.0
-imperatore	costituzione	1.0
-matematico	spettacolo	1.0
-entropia	informazione	1.0
-acqua di rose	olio di rosa	1.0
-agrume	pompelmo	1.0
-Regina Vittoria	Inghilterra	1.0
-Giochi Olimpici	spirito	1.0
-vescovo	musulmano	1.0
-uomo	sospetto	1.0
-meteorite	Terra	1.0
-simbolo	segno	1.0
-antropologia	New York	1.0
-tramonto	tavolo	1.0
-cittadina	città	1.0
-giacca	acqua minerale	1.0
-natura	flora	1.0
-subroutine	compilatore	1.0
-Hamadan	Roma	1.0
-ombrello	stufa	1.0
-onore	stima	1.0
-insegna	dignità	1.0
-KFC	McDonald's	1.0
-joystick	radar	1.0
-basmati	riso jasmine	1.0
+
+imperatore	costituzione	1.5
+
+matematico	spettacolo	0.0
+
+entropia	informazione	2.0
+
+acqua di rose	olio di rosa	2.0
+
+agrume	pompelmo	3.0
+
+Regina Vittoria	Inghilterra	3.5
+
+Giochi Olimpici	spirito	1.5
+
+vescovo	musulmano	3.0
+
+uomo	sospetto	2.0
+
+meteorite	Terra	2.5
+
+simbolo	segno	4.0
+
+antropologia	New York	0.5
+
+tramonto	tavolo	0.0
+
+cittadina	citta	4.0
+
+giacca	acqua minerale	0.0
+
+natura	flora	3.5
+
+subroutine	compilatore	3.0
+
+Hamadan	Roma	2.0
+
+ombrello	stufa	0.0
+
+onore	stima	1.5
+
+insegna	dignita	0.5
+
+KFC	McDonald's	4.0
+
+joystick	radar	1.5
+
+basmati	riso jasmine	3.5
+
 medaglia	scarpe da ginnastica	1.0
-legge	piscina	1.0
-sorgente	scatola	1.0
-teatro	batteria	1.0
-flora	web browser	1.0
-camicia	cardigan	1.0
-poema	ritmo	1.0
-profeta	prete	1.0
-Oscar	stadio	1.0
-backgammon	Go	1.0
+
+legge	piscina	0.0
+
+sorgente	scatola	0.0
+
+teatro	batteria	3.0
+
+flora	web browser	0.0
+
+camicia	cardigan	3.0
+
+poema	ritmo	2.0
+
+profeta	prete	2.0
+
+Oscar	stadio	2.0
+
+backgammon	Go	3.0
+
 farfalla	rosa	1.0
-recinto	salto	1.0
-nichilismo	film	1.0
-asteroide	stella	1.0
-sommossa	disegno	1.0
-intimo	corpo	1.0
-Boeing	aereo	1.0
-cameo	interpretazione	1.0
-semestre	quadrimestre	1.0
-arancia	agrume	1.0
-ghiacciaio	riscaldamento globale	1.0
-galleria	percorso	1.0
+
+recinto	salto	0.5
+
+nichilismo	film	0.5
+
+asteroide	stella	3.0
+
+sommossa	disegno	0.0
+
+intimo	corpo	2.5
+
+Boeing	aereo	3.5
+
+cameo	interpretazione	2.5
+
+semestre	quadrimestre	3.0
+
+arancia	agrume	3.5
+
+ghiacciaio	riscaldamento globale	1.5
+
+galleria	percorso	2.0
+
