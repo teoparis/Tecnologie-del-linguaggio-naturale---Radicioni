@@ -1,5 +1,5 @@
 recessione	PIL	bn:00066516n	bn:00037570n	condizione macroeconomica,fattori produttivi,crescita economica	pil, P.I.L.,prodotto interno lordo
-Cesare	Giulio Cesare	bn:00014550n	bn:00014550n	Gaio Giulio Cesare,Caio Giulio Cesare,imperatore 	Gaio Giulio Cesare,Caio Giulio Cesare ,imperatore
+Cesare	Giulio Cesare	bn:00014550n	bn:00014550n	Gaio Giulio Cesare,Caio Giulio Cesare,imperatore	Gaio Giulio Cesare,Caio Giulio Cesare,imperatore
 paziente	sessione	bn:00061017n	bn:00076588n	 ammalato,assistito,cliente 	fase,periodo,sessione
 comportamentismo	terapia	bn:00009659n	bn:00076843n	behaviourismo,psicologia,comportamento  	guarigione,malattie,metodi
 imperatore	costituzione	bn:00014550n	bn:00059480n	Gaio Giulio Cesare,Caio Giulio Cesare,imperatore	organizzazione,formazione,organizzativo
@@ -13,7 +13,7 @@ vescovo	musulmano	bn:27267995n	bn:00055975n	 responsabile,chiese,cattolicesimo 	
 uomo	sospetto	bn:00044576n	bn:00025884n	essere umano,Homo,umano 	convenuto,accusato ,imputato 
 meteorite	Terra	bn:00054602n	bn:00029424n	meteorite,Oggetto,spazio  	mondo ,globo,terrestre 
 simbolo	segno	bn:00075652n	bn:00075652n	segno,significato convenzionale,elemento 	segno,significato convenzionale,elemento
-antropologia	New York	bn:00004584n	bn:00041611n	Scienza,uomo,entita biologica 	Nuova York ,stato di New York,città
+antropologia	New York	bn:00004584n	bn:00041611n	Scienza,uomo,entita biologica 	Nuova York ,stato di New York,citta
 tramonto	tavolo	bn:05692316n	bn:00075813n	crepuscolo,notte,illuminazione	tavola,mobilio,piano
 cittadina	città	bn:00070724n	bn:00077773n	Insediamento umano,villaggio,borgo 	citta,cittadina ,paese 
 giacca	acqua minerale	bn:00047823n	bn:00055131n	cappotto,casacca,giacchetta 	minerale,bottiglia,acqua sorgiva 
@@ -21,10 +21,10 @@ natura	flora	bn:00057017n	bn:00035324n	fenomeni,forze,cose	pianta,Plantae,vegeta
 subroutine	compilatore	bn:00036826n	bn:00021344n	sottoprogramma,procedura,procedimento	Programma,linguaggio,istruzioni
 Hamadan	Roma	bn:03266645n	bn:00015556n	citta,Iran,Ecbatana	Citta Eterna,Comune di Roma,impero romano 
 ombrello	stufa	bn:00078920n	bn:00074479n	parapioggia,paracqua,ombrellone	fornello,fuoco,apparecchio
-onore	stima	bn:00027103n	bn:00031973n	dignità,decoro,onore	valutazione,estimazione,perizia
+onore	stima	bn:00027103n	bn:00031973n	dignita,decoro,onore	valutazione,estimazione,perizia
 insegna	dignità	bn:00034960n	bn:00027103n	bandiera,segnalazioni,identificazione	decoro,onore,reputazione
-schermo	monitor	bn:00027675n	bn:00021486n	 display,monitor,visualizzatore	schermo,computer monitor,display
-joystick	radar	bn:00022301n	bn:00054808n	cloche,barra,comando	radiolocalizzatore,posizione,rilevament
+schermo	monitor	bn:00027675n	bn:01132021n	 display,monitor,video	Monitor,schermo ,dispositivo
+joystick	radar	bn:00022301n	bn:00054808n	cloche,barra,comando	radiolocalizzatore,posizione,rilevamento
 basmati	riso jasmine	bn:00567353n	bn:02666084n	riso,grano,fragranza 	riso,chicco lungo,fiori
 medaglia	scarpe da ginnastica	bn:23946490n	bn:00042319n	riconoscimento,Attestazione,distinzione	sneaker,takkies,attivita sportive
 legge	piscina	bn:00048655n	bn:00056911n	diritto,giurisprudenza,legislazione	vasca,piscina coperta,nuotare
@@ -44,7 +44,7 @@ sommossa	disegno	bn:00047003n	bn:00028639n	ribellione,rivolta,insurrezione	figur
 intimo	corpo	bn:00079003n	bn:00011744n	biancheria intima,lingerie,indumento	organismo,tessuti,tessuti
 Boeing	aereo	bn:01156257n	bn:00002275n	aereo militare,mezzo militare,spazioplano	aeromobile,velivolo,aeroplano
 cameo	interpretazione	bn:02119437n	bn:00061560n	apparizione,personaggio famoso,spettacolo	performance,esecuzione,esibizione
-semestre	quadrimestre	bn:00000561n	bn:15658281n	suddivisione anno, sei mesi ,scolastico	suddivisione anno, quattro mesi,scolastico
+mondo	Asia	bn:00029424n	bn:00006329n	terra,globo,globo terrestre	regione,supercontinente,continente
 arancia	agrume	bn:17389700n	bn:00019301n	arancio ,albero,Rutaceae	Citrus,frutto,pianta
 ghiacciaio	riscaldamento globale	bn:00040579n	bn:00040681n	ghiaccio,regioni montane,neve	clima,atmosfera,mutamento
 galleria	percorso	bn:00078606n	bn:00067975n	tunnel,Passaggio,cunicolo	strada,via,Striscia di terreno
