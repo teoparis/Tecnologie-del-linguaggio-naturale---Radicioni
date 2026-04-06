@@ -1,4 +1,4 @@
-# Natural Language Processing — Radicioni
+# Natural Language Processing: Radicioni
 
 University exercises for the *Tecnologie del Linguaggio Naturale* course, taught by **Prof. Radicioni** at the University of Turin.
 
@@ -31,9 +31,9 @@ jupyter notebook
 
 ## Related repos
 
-- [NLP — Di Caro](https://github.com/teoparis/Tecnologie-del-linguaggio-naturale---Di-Caro)
-- [NLP — Mazzei](https://github.com/teoparis/Tecnologie-del-linguaggio-naturale---Mazzei)
+- [NLP: Di Caro](https://github.com/teoparis/Tecnologie-del-linguaggio-naturale---Di-Caro)
+- [NLP: Mazzei](https://github.com/teoparis/Tecnologie-del-linguaggio-naturale---Mazzei)
 
 ---
 
-*University project — Tecnologie del Linguaggio Naturale, University of Turin, 2022*
+*University project, Tecnologie del Linguaggio Naturale, University of Turin, 2022*
